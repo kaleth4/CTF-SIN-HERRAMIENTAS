@@ -1,5 +1,3 @@
-```markdown
-# README
 
 ## Resolución de Niveles 1 al 24 de OverTheWire Bandit con Python
 
