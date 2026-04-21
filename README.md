@@ -1,6 +1,6 @@
 
 ## Resolución de Niveles 1 al 24 de OverTheWire Bandit con Python
-<img width="768" height="512" alt="image" src="https://github.com/user-attachments/assets/a9ddbe9d-d28d-4d51-9b59-21c6093721cc" />
+<img width="968" height="512" alt="image" src="https://github.com/user-attachments/assets/a9ddbe9d-d28d-4d51-9b59-21c6093721cc" />
 
 
 
