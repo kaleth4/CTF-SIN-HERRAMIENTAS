@@ -133,5 +133,8 @@ python3 -c 'import socket; s=socket.socket(); s.bind(("localhost", 4444)); s.lis
 ```
 
 ```bash
-python3 -c
+python3 -c 'import socket; s=socket.socket(); s.bind(("localhost", 4444)); s.listen(1); conn, _ = s.accept(); conn.sendall(b"0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO\n"); print(conn.recv(1024).decode())' &
 
+```
+## Desmotracion visual
+<img width="1345" height="869" alt="level20A" src="https://github.com/user-attachments/assets/559ec03d-7421-432d-ac80-4d0edd5eec2e" />
