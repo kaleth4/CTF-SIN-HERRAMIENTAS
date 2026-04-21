@@ -1,10 +1,8 @@
 
 ## Resolución de Niveles 1 al 24 de OverTheWire Bandit con Python
-<img width="968" height="512" alt="image" src="https://github.com/user-attachments/assets/a9ddbe9d-d28d-4d51-9b59-21c6093721cc" />
-
-
-
 Resolver los niveles 1 al 24 de OverTheWire Bandit utilizando exclusivamente scripts propios de Python puede tomarte entre 10 y 20 horas de trabajo neto, dependiendo de tu nivel de experiencia previa en scripting y redes.
+<img width="990" height="512" alt="image" src="https://github.com/user-attachments/assets/a9ddbe9d-d28d-4d51-9b59-21c6093721cc" />
+
 
 ### Desglose del Tiempo Estimado por Fases del Reto
 
