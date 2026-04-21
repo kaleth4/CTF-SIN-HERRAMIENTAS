@@ -129,3 +129,9 @@ Este comando crea un servidor de red minimalista en una sola línea. Básicament
 
 ```bash
 python3 -c 'import socket; s=socket.socket(); s.bind(("localhost", 4444)); s.listen(1
+
+```
+
+```bash
+python3 -c
+
