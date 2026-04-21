@@ -96,6 +96,16 @@ cat /etc/bandit_pass/bandit14 | (exec 3<>/dev/tcp/localhost/30000; cat >&3; cat 
 ## Demostracion visual 
 <img width="1636" height="738" alt="level14" src="https://github.com/user-attachments/assets/7bb9403d-7b40-4f2a-b9a4-b96982c10b92" />
 
+<img width="1398" height="737" alt="level15" src="https://github.com/user-attachments/assets/4876ea66-57bd-424e-874f-6c1055231f03" />
+
+<img width="1369" height="717" alt="level15A" src="https://github.com/user-attachments/assets/62d63637-9793-422b-bee2-e279dfe00d0e" />
+
+<img width="1663" height="749" alt="level16c" src="https://github.com/user-attachments/assets/a6df3a3d-7050-42ca-aa2a-46bc1bf317b7" />
+
+<img width="1920" height="1080" alt="level16" src="https://github.com/user-attachments/assets/834f74b1-38c8-4209-aff5-d10f730edafd" />
+
+
+
 
 ### Mi Port Scanner
 <img width="1672" height="816" alt="level20" src="https://github.com/user-attachments/assets/41444b39-a3a0-4b56-a442-392d77be2b34" />
@@ -141,4 +151,7 @@ python3 -c 'import socket; s=socket.socket(); s.bind(("localhost", 4444)); s.lis
 
 ```
 ## Demostracion visual
+<img width="1672" height="816" alt="level20" src="https://github.com/user-attachments/assets/8a04b9a5-4816-438c-a121-c21f740f5ab6" />
+
+
 <img width="1345" height="869" alt="level20A" src="https://github.com/user-attachments/assets/559ec03d-7421-432d-ac80-4d0edd5eec2e" />
