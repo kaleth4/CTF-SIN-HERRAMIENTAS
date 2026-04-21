@@ -96,6 +96,8 @@ cat /etc/bandit_pass/bandit14 | (exec 3<>/dev/tcp/localhost/30000; cat >&3; cat 
 
 ### Mi Port Scanner
 
+<img width="1920" height="1047" alt="level20" src="https://github.com/user-attachments/assets/77df8f55-6f18-471d-93f4-490f42b76151" />
+
 ```python
 import socket
 
@@ -108,7 +110,7 @@ K P O R T S C A N N E R v5.0 (kaleth corcho)
 """)
 
 def main():
-    print_banner()  # ← llamas el banner
+    print_banner() 
 
     for port in ports:
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -136,5 +138,5 @@ python3 -c 'import socket; s=socket.socket(); s.bind(("localhost", 4444)); s.lis
 python3 -c 'import socket; s=socket.socket(); s.bind(("localhost", 4444)); s.listen(1); conn, _ = s.accept(); conn.sendall(b"0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO\n"); print(conn.recv(1024).decode())' &
 
 ```
-## Desmotracion visual
+## Demostracion visual
 <img width="1345" height="869" alt="level20A" src="https://github.com/user-attachments/assets/559ec03d-7421-432d-ac80-4d0edd5eec2e" />
