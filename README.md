@@ -95,8 +95,7 @@ cat /etc/bandit_pass/bandit14 | (exec 3<>/dev/tcp/localhost/30000; cat >&3; cat 
 ```
 
 ### Mi Port Scanner
-
-<img width="1920" height="1047" alt="level20" src="https://github.com/user-attachments/assets/77df8f55-6f18-471d-93f4-490f42b76151" />
+<img width="1672" height="816" alt="level20" src="https://github.com/user-attachments/assets/41444b39-a3a0-4b56-a442-392d77be2b34" />
 
 ```python
 import socket
