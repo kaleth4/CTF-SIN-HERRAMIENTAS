@@ -93,6 +93,9 @@ Esta es la opción más avanzada y "pura" de Linux, ya que utiliza descriptores 
 ```bash
 cat /etc/bandit_pass/bandit14 | (exec 3<>/dev/tcp/localhost/30000; cat >&3; cat <&3)
 ```
+## Demostracion visual 
+<img width="1636" height="738" alt="level14" src="https://github.com/user-attachments/assets/7bb9403d-7b40-4f2a-b9a4-b96982c10b92" />
+
 
 ### Mi Port Scanner
 <img width="1672" height="816" alt="level20" src="https://github.com/user-attachments/assets/41444b39-a3a0-4b56-a442-392d77be2b34" />
