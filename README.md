@@ -102,9 +102,7 @@ cat /etc/bandit_pass/bandit14 | (exec 3<>/dev/tcp/localhost/30000; cat >&3; cat 
 
 <img width="1663" height="749" alt="level16c" src="https://github.com/user-attachments/assets/a6df3a3d-7050-42ca-aa2a-46bc1bf317b7" />
 
-<img width="1920" height="1080" alt="level16" src="https://github.com/user-attachments/assets/834f74b1-38c8-4209-aff5-d10f730edafd" />
-
-
+<img width="1668" height="713" alt="level16" src="https://github.com/user-attachments/assets/04b6d5f7-7543-4493-8985-7a20a6b1ccf7" />
 
 
 ### Mi Port Scanner
